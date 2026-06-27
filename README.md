@@ -77,8 +77,8 @@ The following table summarizes the exact test set accuracy scores achieved acros
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/yourusername/insurance-purchase-prediction.git](https://github.com/yourusername/insurance-purchase-prediction.git)
-   cd insurance-purchase-prediction
+   git clone [https://github.com/Khayal07/Insurance-Product-Purchase-Prediction-ML.git](https://github.com/Khayal07/Insurance-Product-Purchase-Prediction-ML.git)
+   cd Insurance-Product-Purchase-Prediction-ML
 
 2. **Install Dependencies:**
    ```bash
